@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">VeggiPortz</string>
+
+    <array name="vegitables">
+        <item>Onion</item>
+        <item>Tomato</item>
+        <item>Potato</item>
+        <item>Cabbage</item>
+        <item>Peas</item>
+        <item>Flower</item>
+        <item>LadyFinger</item>
+        <item>BottleGourd</item>
+        <item>Carrot</item>
+        <item>Brinjal</item>
+        <item>Garlic</item>
+        <item>Ginger</item>
+        <item>Capsicum</item>
+        <item>Chilli</item>
+        <item>Palak</item>
+        <item>Lemon</item>
+        <item>Fenugreek</item>
+        <item>Beetroot</item>
+        <item>Red Capsicum</item>
+        <item>Yellow Capsicum</item>
+        <item>Broccoli</item>
+    </array>
+
+    <array name="price">
+        <item>80</item>
+        <item>20</item>
+        <item>34</item>
+        <item>28</item>
+        <item>48</item>
+        <item>40</item>
+        <item>50</item>
+        <item>18</item>
+        <item>80</item>
+        <item>40</item>
+        <item>190</item>
+        <item>90</item>
+        <item>40</item>
+        <item>44</item>
+        <item>32</item>
+        <item>60</item>
+        <item>43</item>
+        <item>46</item>
+        <item>199</item>
+        <item>178</item>
+        <item>90</item>
+    </array>
+
+</resources>

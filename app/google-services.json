@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "912260063867",
+    "firebase_url": "https://veggieportz.firebaseio.com",
+    "project_id": "veggieportz",
+    "storage_bucket": "veggieportz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912260063867:android:915759d8588f8dfc6278de",
+        "android_client_info": {
+          "package_name": "com.example.veggieportz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912260063867-g81vjhj7gktjcfcgasjpt5dncjt6f67i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veggieportz",
+            "certificate_hash": "24c603d6485f1fd5e48bce399d367eab74608634"
+          }
+        },
+        {
+          "client_id": "912260063867-cllv1vjepu823nv4tv3ere0f7n1qqb32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veggieportz",
+            "certificate_hash": "008375c9b32aed9948e9605c0d66dec226b91ecc"
+          }
+        },
+        {
+          "client_id": "912260063867-v4qnnqb7jp5qmrs01ja6rd6t90s5l193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy5K-LDcdymvoew1YIMqjcJIYkJyFDVKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912260063867-v4qnnqb7jp5qmrs01ja6rd6t90s5l193.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

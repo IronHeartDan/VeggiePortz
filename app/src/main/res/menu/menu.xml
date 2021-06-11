@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Vegitables"/>
+
+    <item
+        android:id="@+id/fruit"
+        android:icon="@drawable/apple"
+        android:title="Fruits"/>
+    <item
+        android:id="@+id/fredgies"
+        android:icon="@drawable/ic_fredgis"
+        android:title="Fridges"/>
+    <item
+        android:id="@+id/salad"
+        android:icon="@drawable/ic_salad"
+        android:title="Salads"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
+
+
+
+</menu>
